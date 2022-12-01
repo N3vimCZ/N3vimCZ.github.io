@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(228, 13, 217);
+}
+h1{
+    color: rgb(52, 194, 24);
+    text-align: right;
+    font-size: 78px;
+}
+h2{
+    color: rgb(79, 252, 11);
+    font-size: 34px;
+    text-align: right;
+}
+table{
+    background: rgb(223, 27, 27);
+    text-align: center;
+}
+th{
+    height: 35px;
+}
+td{
+    background: rgb(13, 221, 83);
+    width: 45px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: aqua;
+}
+li{
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: black;
+    font-size: 35px;
+}
+h4{
+    text-shadow: 4px 4px;
+}
